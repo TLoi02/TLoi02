@@ -1,6 +1,6 @@
-## Hi I'm Gaboso :fox_face:
+## Hi I'm Vo Thuan Loi :fox_face:
 
-:computer: _Study information technology at Hutech University.
+:computer: Study information technology at Hutech University.
 
 ### My Tech Stack
 
