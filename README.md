@@ -1,6 +1,4 @@
-## Hi I'm Vo Thuan Loi :fox_face:
-
-:computer: Study information technology at Hutech University.
+## Hi I'm Louis Vo :fox_face:
 
 ### My Tech Stack
 
